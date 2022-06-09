@@ -1,4 +1,4 @@
-# Crear una aplicación web de Wardpress con Azure App Service
+# Crear una aplicación web de Wordpress con Azure App Service
 ![](screenshots/K_130.jpg)
 Antes de todo, es necesario tener una suscripción de Azure.
 
